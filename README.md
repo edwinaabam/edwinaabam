@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I’m Edwina 👋
-
 I’m a data-focused problem solver with a strong interest in applied data science and machine learning, particularly projects that move beyond analysis into real, usable systems.
 
 I enjoy working across the full journey of a project — from understanding data and exploring patterns, through modelling and evaluation, to building simple interfaces that allow others to interact with the results.
